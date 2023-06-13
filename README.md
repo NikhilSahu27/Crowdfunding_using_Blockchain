@@ -1,5 +1,5 @@
 # Crowdfunding_using_Blockchain
-It is a simple Crowdfunding project where multiple parties can fund into their selected hospital with ethereum currency.
+It is a simple Crowdfunding project where multiple parties can fund into their selected hospital with Ethereum currency.
 Only the hospital can withdraw the money raised.
 All the transactions are transparent i.e, Everyone can see how much money is raised.
 The link to the project website is https://fundd-me.netlify.app/
